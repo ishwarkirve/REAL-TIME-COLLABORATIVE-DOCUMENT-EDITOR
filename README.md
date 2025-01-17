@@ -1,18 +1,18 @@
-#REAL-TIME COLLABORATIVE DOCUMENT EDITOR
+# REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
-COMPANY : CODTECH IT SOLUTIONS
+**COMPANY** : CODTECH IT SOLUTIONS
 
-NAME : ISHWAR DATTATRAY KIRAVE
+**NAME** : ISHWAR DATTATRAY KIRAVE
 
-INTENR ID : CT08GRB
+**INTENR ID** : CT08GRB
 
-DOMAIN : FULL STACK WEB DEVELOPMENT
+**DOMAIN** : FULL STACK WEB DEVELOPMENT
 
-BATCH DURATION : DECEMBER 25th, 2024 to JANUARY 25th, 2025
+**BATCH DURATION** : DECEMBER 25th, 2024 to JANUARY 25th, 2025
 
-MENTOR NAME : NEELA SANTOSH KUMAR
+**MENTOR NAME** : NEELA SANTOSH KUMAR
 
-DESCRIPTION:
+**DESCRIPTION**:
 
 A real-time collaborative document editor that allows multiple users to simultaneously edit documents. This project leverages WebSockets for real-time communication, MongoDB for data storage, and a combination of React.js (frontend) and Node.js (backend) to build a modern, dynamic web application.
 
